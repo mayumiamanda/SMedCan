@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855210104460",
+    "project_id": "smedcan-f7dfe",
+    "storage_bucket": "smedcan-f7dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855210104460:android:da450b5b2ba1ad9b828da9",
+        "android_client_info": {
+          "package_name": "com.example.smedcan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855210104460-j3574991h7c5dc7qfn0a1ljuls031i0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6IWjgwxEEkkWQhtCpVJLtiaW2zfyk7gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855210104460-j3574991h7c5dc7qfn0a1ljuls031i0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
